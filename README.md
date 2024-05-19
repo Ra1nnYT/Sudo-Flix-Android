@@ -1,5 +1,8 @@
 # Unofficial Sudo-Flix APK (duh)
 
+[![Sudo-Flix Image](https://raw.githubusercontent.com/TG20HD/smov/main/.github/Sudo-Flix.png)](https://sudo-flix.lol)  
+
+
 ### *Check releases for downloads!* ###
 
 ## The difference between the APKs
