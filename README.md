@@ -7,6 +7,8 @@
 
 *Sudo-Flix-MainDomain.apk* runs using https://sudo-flix.lol while *Sudo-Flix-Mirror.apk* uses https://flix.kanded.xyz . It's merely a matter of preference on which one you pick.
 
+## **Please note that Sudo-Flix will ask for an SSL certificate. When this happens, just press cancel and you'll be fine.** ##
+
 
 ## Regarding the MovieWeb APK
 
@@ -16,4 +18,7 @@
 # Credits!
 
 **Sudo-Flix Source code!** - https://github.com/sussy-code/smov
+
 **Movie-Web source code** - (Project is dead)
+
+### APKs built by Rainn ##
