@@ -1,5 +1,7 @@
 # Unofficial Sudo-Flix APK (duh)
 
+### *Check releases for downloads!* ###
+
 ## The difference between the APKs
 
 
